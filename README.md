@@ -14,19 +14,19 @@
 
 ## About
 
-I work at the intersection of cloud, data, and operations, building systems that bring clarity, structure, and stability to complex environments.
+I work at the intersection of cloud, data, and operations, building systems that bring clarity, structure, and scale to complex environments.
+
+Bridging systems and workflows across GE HealthCare and VasoHealthcare to support a unified, secure, and scalable operational environment.
 
 My journey started in hands-on technical support, where I learned how systems break, how people experience technology, and what actually matters in real environments.
 
 Today, that perspective shapes how I design and support systems, not just to function, but to last.
 
----
 
 ## Focus
 
 → Cloud infrastructure and automation  
-→ Data workflows and operational systems  
-→ Monitoring and observability  
+→ Data workflows, observability and operational systems   
 → Service platforms and process improvement  
 → AI-informed enterprise systems  
 
@@ -62,7 +62,7 @@ Canva • Obsidian • Fireflies • AI-assisted tools • Microsoft 365 • Zoo
 
 • Supporting cloud transformation (on-prem → Azure)  
 • Contributing to enterprise service platform rollout  
-• Leading internal technical training and enablement  
+• Leading internal technical enablement  
 • Building structured systems for scalable operations  
 
 <p align="center">
@@ -73,9 +73,9 @@ Canva • Obsidian • Fireflies • AI-assisted tools • Microsoft 365 • Zoo
 
 <p align="center">
   <em>
-  She became disciplined where no one was watching.  
-  <br/><br/>
+  She became disciplined where no one was watching.
   The results spoke long before she did.
   </em>
+  <br/><br/>
   <em>Long before anything was visible, the structure had already been decided.</em>
 </p>
