@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ashaabdulkadir">
+  <a href="https://www.linkedin.com/in/ashaabdulkadir/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -14,10 +14,11 @@
 
 ## About
 
-I work at the intersection of cloud, data, and operations —  
-designing systems that bring **clarity, structure, and scale** to complex environments.
+I work at the intersection of cloud, data, and operations, building systems that bring clarity, structure, and stability to complex environments.
 
-What started as hands-on technical support has evolved into building and supporting systems that are not only functional — but sustainable.
+My journey started in hands-on technical support, where I learned how systems break, how people experience technology, and what actually matters in real environments.
+
+Today, that perspective shapes how I design and support systems, not just to function, but to last.
 
 ---
 
@@ -27,7 +28,7 @@ What started as hands-on technical support has evolved into building and support
 → Data workflows and operational systems  
 → Monitoring and observability  
 → Service platforms and process improvement  
-→ AI-informed enterprise thinking  
+→ AI-informed enterprise systems  
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" />
@@ -36,7 +37,7 @@ What started as hands-on technical support has evolved into building and support
 ## Systems, Platforms & Infrastructure
 
 **Cloud and Infrastructure**  
-Microsoft Azure • Docker  
+Microsoft Azure • Atlassian • CloverDX   
 
 **Data and Platforms**  
 NocoDB • Neon • Clover • structured workflows • integrations  
@@ -51,7 +52,7 @@ PowerShell • VS Code • JetBrains • Git • GitKraken • SnippetLab
 Azure Monitor • Grafana • Prometheus • asset management • hardware troubleshooting  
 
 **Design and Intelligent Workflows**  
-Canva • Obsidian • Fireflies • AI tools • Microsoft 365 • Zoom • Beekeeper  
+Canva • Obsidian • Fireflies • AI-assisted tools • Microsoft 365 • Zoom • Beekeeper  
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" />
@@ -59,10 +60,10 @@ Canva • Obsidian • Fireflies • AI tools • Microsoft 365 • Zoom • Bee
 
 ## Selected Work
 
-• Cloud transformation (on-prem → Azure)  
-• Enterprise service platform rollout  
-• Internal technical training and enablement  
-• Building scalable operational systems  
+• Supporting cloud transformation (on-prem → Azure)  
+• Contributing to enterprise service platform rollout  
+• Leading internal technical training and enablement  
+• Building structured systems for scalable operations  
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" />
@@ -71,7 +72,10 @@ Canva • Obsidian • Fireflies • AI tools • Microsoft 365 • Zoom • Bee
 ## Perspective
 
 <p align="center">
- <em>
-    Long before anything was visible, the structure had already been decided.
+  <em>
+  She became disciplined where no one was watching.  
+  <br/><br/>
+  The results spoke long before she did.
   </em>
+  <em>Long before anything was visible, the structure had already been decided.</em>
 </p>
