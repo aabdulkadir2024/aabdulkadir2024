@@ -1,84 +1,100 @@
-<h1 align="center">Hi, I’m Asha 👋🏾</h1>
-<h3 align="center">Jr Data Engineer @ VasoHealthcare | Cloud • Data • AI</h3>
+<h1 align="center">Asha 👋🏾</h1>
 
 <p align="center">
-  Building scalable, secure, and human-centered systems that make technology work better for people.
+  <em>Cloud • Data • AI</em>
+</p>
+
+<p align="center">
+  Jr Data Engineer @ VasoHealthcare  
+</p>
+
+<p align="center">
+  Building scalable, secure, and human-centered systems.
 </p>
 
 ---
 
-### 💼 About Me
-- 💻 Jr Data Engineer working at the intersection of cloud, data, and operations  
-- ☁️ Designing and supporting Azure-based infrastructure, monitoring, and automation  
-- 📊 Turning operational challenges into structured, data-driven systems  
-- 🎓 B.S. Technology Management | M.S. Applied AI (in progress)  
+### 💼 About
+<p>
+I work at the intersection of cloud, data, and operations — designing systems that bring structure, clarity, and efficiency to complex environments.
+</p>
+
+<p>
+My focus is not just on solving problems, but on building systems that prevent them.
+</p>
 
 ---
 
-### ⚙️ Systems & Technologies
+### ⚙️ Systems, Platforms & Infrastructure
 
-- **Cloud & Distributed Infrastructure:**  
-  Microsoft Azure (compute, networking, automation, monitoring), containerization (Docker)
+- **Cloud & Distributed Infrastructure**  
+  Azure • Automation • Networking • Monitoring • Docker  
 
-- **Data Systems & Platform Engineering:**  
-  Structured data workflows, system integrations, low-code data platforms (NocoDB), serverless/Postgres environments (Neon)
+- **Data Systems & Platform Engineering**  
+  Data workflows • Integrations • NocoDB • Neon  
 
-- **Service Architecture & Operational Platforms:**  
-  Jira Service Management, Confluence, and Atlassian ecosystem with marketplace integrations for scalable service delivery
+- **Service Architecture**  
+  Jira Service Management • Confluence • Atlassian ecosystem  
 
-- **Observability & Performance Monitoring:**  
-  Azure Monitor, Grafana, Prometheus for telemetry, logging, and system performance insights
+- **Observability & Monitoring**  
+  Azure Monitor • Grafana • Prometheus  
 
-- **Automation & Scripting:**  
-  PowerShell-driven automation and workflow orchestration across cloud and operational environments
+- **Automation & Scripting**  
+  PowerShell • Workflow orchestration  
 
-- **Software Development & Version Control:**  
-  VS Code, JetBrains ecosystem, Git-based version control (GitKraken)
+- **Development & Version Control**  
+  VS Code • JetBrains • Git • GitKraken  
 
-- **Collaboration & Enterprise Productivity Systems:**  
-  Microsoft 365 ecosystem, Slack, Zoom, asynchronous knowledge sharing (Loom)
+- **Collaboration & Productivity**  
+  Microsoft 365 • Slack • Zoom • Loom  
 
-- **Intelligent & AI-Augmented Workflows:**  
-  Fireflies AI, AI-assisted tooling, structured knowledge systems (Obsidian, SnippetLab)
+- **Intelligent Workflows**  
+  AI-assisted tools • Fireflies • Obsidian • SnippetLab  
 
-- **Systems Support & Endpoint Management:**  
-  Windows and iOS environments, hardware troubleshooting, asset lifecycle management
+- **Systems Support**  
+  Windows • iOS • Hardware troubleshooting • Asset management  
 
-- **Business & Field Operations Systems:**  
-  Clover, Beekeeper, and integrated operational tools supporting field and business workflows
+- **Business Systems**  
+  Clover • Beekeeper  
 
-- **Design & Communication:**  
-  Canva for structured visual communication and documentation
-
----
-
-### 🏆 Selected Impact
-- Contributing to full cloud transformation (on-prem → Azure)  
-- Supporting enterprise rollout of Jira Service Management  
-- Leading internal technical training and enablement initiatives  
-- Building structured systems for scalable IT operations  
+- **Design & Communication**  
+  Canva  
 
 ---
 
-### 🌱 Current Direction
-- Advancing in cloud architecture and data engineering  
-- Exploring AI integration within enterprise systems  
-- Designing automation for efficiency, reliability, and scale  
+### 🏆 Selected Work
+
+- Cloud environment transition (on-prem → Azure)  
+- Enterprise service platform rollout (Jira Service Management)  
+- Internal training & technical enablement  
+- Operational systems design for scalability  
+
+---
+
+### 🌱 Direction
+
+Cloud architecture • Data engineering • AI integration  
+Designing systems for scale, reliability, and long-term impact  
 
 ---
 
 ### 🌍 Languages
+
 English • Swahili • Oromo • Borana • other dialects  
 
 ---
 
 ### 📫 Connect
-- LinkedIn: www.linkedin.com/in/ashaabdulkadir
+
+LinkedIn: (your link)
 
 ---
 
 ### ✨ Perspective
 
 <p align="center">
- <em>Long before anything was visible, the structure had already been decided.</em>
+  <em>
+  While others spoke of what they would build, she kept working.  
+  By the time they looked again, it was already done.
+  </em>
 </p>
