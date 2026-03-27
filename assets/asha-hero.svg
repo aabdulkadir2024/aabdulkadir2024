@@ -1,0 +1,44 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#151A33"/>
+      <stop offset="1" stop-color="#0E1328"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="420">
+      <stop stop-color="#7C5CFF"/>
+      <stop offset="0.5" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+
+  <path d="M40 330C180 260 260 260 380 300C530 350 620 210 760 220C900 230 1010 180 1160 110"
+        stroke="url(#accent)" stroke-width="3" filter="url(#glow)"/>
+
+  <text x="90" y="140" fill="white" font-size="52" font-family="Segoe UI" font-weight="700">
+    Asha
+  </text>
+
+  <text x="90" y="185" fill="#C9D4F5" font-size="22">
+    Jr Data Engineer @ VasoHealthcare
+  </text>
+
+  <text x="90" y="230" fill="#A7B4D6" font-size="20">
+    Cloud • Data • AI • Operations
+  </text>
+
+  <text x="90" y="285" fill="#E7ECFF" font-size="24">
+    Designing thoughtful systems that bring clarity, structure, and scale.
+  </text>
+</svg>
